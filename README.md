@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, there! I'm Sammy! 
+
+Check out my latest project: [_The Wind and the Wisp_!](https://store.steampowered.com/app/3729770/The_Wind_and_the_Wisp/)
 
 <!--
 **penguincoco/penguincoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
