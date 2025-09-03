@@ -1,7 +1,13 @@
-## Hi, there! I'm Sammy! 
-[LinkedIn](https://www.linkedin.com/in/sammy-chuang-30bb74169/) | [Portfolio](https://www.penguinco.co/) 
+<h2 align="center">Hi, there! I'm Sammy!</h2>
 
-![gamer-lumi](https://github.com/user-attachments/assets/820345ea-48d2-4df3-9e19-7ac9cf07412f)
+<div align="center">
+  
+[LinkedIn](https://www.linkedin.com/in/sammy-chuang-30bb74169/) | [Portfolio](https://www.penguinco.co/) 
+</div>
+
+<p align="center">
+  <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/b6cfceb5-cae5-48a9-a7e0-e0fca341c546" />
+</p>
 
 I'm a multidisciplinary developer passionate about making tiny games! 
 I come from an engineering background and have 5 years of experience developing games in Unity, and have recently pivoted into technical production.
