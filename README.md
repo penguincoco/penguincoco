@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[LinkedIn](https://www.linkedin.com/in/sammy-chuang-30bb74169/) | [Portfolio](https://www.penguinco.co/) 
+[LinkedIn](https://www.linkedin.com/in/sammy-chuang-30bb74169/) | [Portfolio](https://www.penguinco.co/) | [Itch](https://penguincoco.itch.io/)
 </div>
 
 <p align="center">
