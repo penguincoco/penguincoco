@@ -16,7 +16,13 @@ I love exploring how games can bring people together and be used to foster a sen
 
 I love hiking and frolicking in fields of wildflowers, reading, and trying out new foods (I also do a variety of funny accents)
 
-Check out my latest project: [_The Wind and the Wisp_!](https://store.steampowered.com/app/3729770/The_Wind_and_the_Wisp/)
+## Projects
+<p align="center">
+  <img width="459" height="215" alt="image" src="https://github.com/user-attachments/assets/f3fc26d3-85e2-4545-a658-b041a58341f2" />
+</p>
+
+Check out my latest Steam release: [_The Wind and the Wisp_!](https://store.steampowered.com/app/3729770/The_Wind_and_the_Wisp/), a 3D adventure game about blowing into the microphone! 
+The GitHub repository is private since it has many contributors and we want to respect everyone’s work and keep the codebase internal. I’m happy to share snippets or walk through parts of the code though, just send me an [email](mailto:sammy.s.chuang@gmail.com)! 
 
 <!--
 **penguincoco/penguincoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
